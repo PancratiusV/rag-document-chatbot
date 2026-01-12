@@ -3,14 +3,14 @@
 A retrieval-augmented generation (RAG) tool that lets you upload PDFs and ask questions about their content in natural language.
 
 ## 🚀 Live Demo
-[**Click here to try the app**](https://your-app-url.streamlit.app) *(Update this link after you deploy!)*
+[**Click here to try the app**](https://pdf-rag-assistant-pancratiusv.streamlit.app/) 
 
 ## 🛠️ Tech Stack
 *   **Frontend:** Streamlit
 *   **Framework:** LangChain
 *   **Vector Database:** ChromaDB
-*   **Embeddings:** all-mpnet-base-v2
-*   **LLM:** openai/gpt-oss-120b
+*   **Embeddings:** `all-mpnet-base-v2`
+*   **LLM:** `openai/gpt-oss-120b`
 
 ## 💡 How It Works
 1.  **Ingestion:** The app reads PDF files and splits text into manageable chunks.

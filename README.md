@@ -5,7 +5,7 @@ A LLM chatbot with retrieval-augmented generation (RAG) that lets you upload doc
 ![APP Demo](images/app_screenshot.png)
 
 ## 🚀 Live Demo
-[**Click here to try the app**](https://pdf-rag-assistant-pancratiusv.streamlit.app/) 
+[**Click here to try the app**](https://rag-document-chatbot-pv.streamlit.app/) 
 
 ## 🛠️ Tech Stack
 *   **Frontend:** Streamlit
